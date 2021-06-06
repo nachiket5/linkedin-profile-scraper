@@ -35,7 +35,7 @@ pip install Jinja2
 ```
 pip install lxml
 ```
-#### To  automate  web application.
+#### Download chromedriver to  automate web application.
 https://chromedriver.chromium.org/downloads
 
 
